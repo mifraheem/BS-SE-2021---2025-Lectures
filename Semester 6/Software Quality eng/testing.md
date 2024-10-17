@@ -12,7 +12,7 @@ A hypothetical model of what type of foult  might occur in the implementation.
 4. Coverage 
 5. Diognostic
 
-## Fould model for finite
+## Fault model for finite
 
 ## Activity
 an action that is performed during transitions
