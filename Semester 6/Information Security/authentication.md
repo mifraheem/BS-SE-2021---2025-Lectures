@@ -67,3 +67,11 @@ dicrease the limit to try password. <br>
 1. Use 2FA<br>
 
 ### 3. Strong password.
+
+<hr> 
+
+# Assignment 02
+`
+what is symmetric envryption
+what are their algorithems (3,4)
+compare at least 3,4 algorithems. with their drawbacks and shortcomes`
