@@ -1,4 +1,5 @@
 # Website Testing
+It is conducted on web app with an intent to find out potential bugs or defects that could effect funcionality of web app. during this testing we check accessibility and security issues. <hr>
 ## Types of Web Testing
 1. Functionality Testing
     * URL Testing
