@@ -47,3 +47,12 @@ advance auth like hashing and 2FA etc
 guessing password using automated methods until access is gained. hackers uses public info to generate possible passwords
 ### 2. Credentials Stuffing
 Credentials stuffing is a cyber attack where hackers use tolen username and password to access multiple accounts. This works when people uses the same login credentials accross different websites and devices. 
+### 3. Key Login
+Key login attacks involve mellisious softwares that records key stocks on infected devices. Allowing attackers to steal password and other personal information.
+### 4. Dictionary Attack 
+Attackers used list of common words from cracking dictionaries.
+### 5. Phishing Attack
+It involves fake emails, text, or messages that trick victoms into sharing sensitive information. Scammers pose as trust worthy source such as banks,  social media, or email providers. 
+### 6. Password Sprey Attack
+A password sprey attack is when hackers try a common password on many accounts. This is possible when people uses same password across multiple accounts. 
+
