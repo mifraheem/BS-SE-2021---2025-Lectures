@@ -46,4 +46,4 @@ advance auth like hashing and 2FA etc
 ### 1. Brute Force
 guessing password using automated methods until access is gained. hackers uses public info to generate possible passwords
 ### 2. Credentials Stuffing
-Credentials stuffing is a cyber attack where hackers use tolen username and password
+Credentials stuffing is a cyber attack where hackers use tolen username and password to access multiple accounts. This works when people uses the same login credentials accross different websites and devices. 
