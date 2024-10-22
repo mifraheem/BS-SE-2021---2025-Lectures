@@ -42,7 +42,7 @@ Comparing the user input password with stored password.
 2. Dynamic <br>
 advance auth like hashing and 2FA etc
 
-## Possible Attacks agains password system
+## Possible Attacks against password system
 ### 1. Brute Force
 guessing password using automated methods until access is gained. hackers uses public info to generate possible passwords
 ### 2. Credentials Stuffing
@@ -56,3 +56,14 @@ It involves fake emails, text, or messages that trick victoms into sharing sensi
 ### 6. Password Sprey Attack
 A password sprey attack is when hackers try a common password on many accounts. This is possible when people uses same password across multiple accounts. 
 
+## How to avoid password attacks
+### 1. Password Protection
+dicrease the limit to try password. <br>
+2. Multifector Authentication <br>
+3. Require Complex password and unique passwords<br>
+4. Update password regularly<br>
+
+### 2. Extra Security Layer
+1. Use 2FA<br>
+
+### 3. Strong password.
