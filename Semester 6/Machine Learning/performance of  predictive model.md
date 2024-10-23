@@ -1,0 +1,2 @@
+# Performance of Predictive Model
+The performance of the predictive model was evaluated using the mean absolute error (MAE) and the mean squared error (MSE) metrics. The MAE is the average of the absolute differences between the  predicted and actual values, while the MSE is the average of the squared differences between the predicted and actual  values. The lower the MAE and MSE values, the better the performance of the model.
