@@ -28,3 +28,20 @@ four steps:
 
 ### 3. Valid/invalid
 ### 4. 
+
+## Test Suite
+A collection of test cases that are related to each other and are used to test a specific functionality or feature of the system.
+## Test Suite Structure
+A test suite typically consists of the following components:
+* Test suite name
+* Test suite description
+* Test cases
+* Test data
+* Test environment
+* Test execution plan
+## Test Suite Types
+There are several types of test suites, including:
+* Functional test suite
+* Regression test suite
+
+## Test Report Form:
